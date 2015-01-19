@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="crawler4j-3-dependencies">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../crawler4j-3.5-dependencies" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../crawler4j-3.5-dependencies" recursive="false" />
+  </library>
+</component>
