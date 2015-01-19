@@ -52,5 +52,8 @@ public class MyCrawler extends WebCrawler {
             System.out.println("Number of outgoing links: " + links.size());
         }
     }
+    public static void main(){
+
+    }
 }
 
